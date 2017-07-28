@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="aws_region_endpoint">
+    <aws_region_endpoint action="INSERT_OR_UPDATE">
+        <endpoint>https://monitoring.us-east-2.amazonaws.com</endpoint>
+        <region display_value="us-east-2">99893dd44f540300bfd8b5e18110c70a</region>
+        <service display_value="AWS CloudWatch">556d1d00eb1321004d7763fba206fec9</service>
+        <sys_class_name>aws_region_endpoint</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-27 15:58:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>59893dd44f540300bfd8b5e18110c70d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>aws_region_endpoint_59893dd44f540300bfd8b5e18110c70d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-27 15:58:57</sys_updated_on>
+    </aws_region_endpoint>
+</record_update>
